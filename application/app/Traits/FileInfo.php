@@ -62,7 +62,7 @@ trait FileInfo
         ];
         
         $data['serviceProof'] = [
-            'path'      => 'assets/images/service-proof',
+            'path'      => 'assets/images/proofs',
             'size'      => '600x600',
         ];
 
